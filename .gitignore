@@ -2,5 +2,3 @@ node_modules
 package.json
 vite.config.js
 package-lock.json
-eslintrc.cjs
-DS_Store
